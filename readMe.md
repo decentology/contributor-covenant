@@ -63,11 +63,11 @@ the expectation that you will...
 1. Clone this repository: `git clone`.
 2. Create a feature branch: `git checkout -b feature/name`.
 3. Update `readMe.md` with a ✅ next to your name.
-4. Create a pull request and assign it to me, *decentMorgan*.
+4. Create a pull request and assign it to me, _decentMorgan_.
 
 # Signatories
 
-- ▢ Angelica Turla
+- ✅ Angelica Turla
 - ✅ Jacob Tucker
 - ✅ Jonathan Sheely
 - ✅ Morgan Wilde

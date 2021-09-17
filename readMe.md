@@ -27,7 +27,7 @@ These 3 branches form the core of each repository. `trunk` is where we all
 should start, and it contains the bleeding edge commit. If you're working on a
 new feature, or fixing a bug, you should always branch out from `trunk`.
 
-Pick between `features/` and `fix/` as the prefix, and then follow up with
+Pick between `feature/` and `fix/` as the prefix, and then follow up with
 brief space-separated title.
 
 ```sh
@@ -67,6 +67,7 @@ the expectation that you will...
 
 # Signatories
 
+- ▢ Angelica Turla
 - ▢ Jacob Tucker
 - ▢ Jonathan Sheely
 - ✅ Morgan Wilde

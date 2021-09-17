@@ -67,6 +67,7 @@ the expectation that you will...
 
 # Signatories
 
+- ▢ Angelica Turla
 - ▢ Jacob Tucker
 - ▢ Jonathan Sheely
 - ✅ Morgan Wilde

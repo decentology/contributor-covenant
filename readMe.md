@@ -69,6 +69,6 @@ the expectation that you will...
 
 - ▢ Angelica Turla
 - ▢ Jacob Tucker
-- ▢ Jonathan Sheely
+- ✅ Jonathan Sheely
 - ✅ Morgan Wilde
 - ▢ Nik Kalyani

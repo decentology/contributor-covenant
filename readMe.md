@@ -49,3 +49,25 @@ it's critical that all bugs be squashed before code leaves `staging`.
 
 As per the name, this code is live and people depend on it to work. Only
 repository authors and maintainers can merge into `production`.
+
+## Pull Requests
+
+We should never use `git merge` locally, and instead create **Pull requests**
+whenever we want to merge our code back into `trunk`, or even a code review.
+
+Once a pull request is merged, the branch is auto-removed from the repository.
+
+To keep this document alive, I'm adding every potential contributor below with
+the expectation that you will...
+
+1. Clone this repository: `git clone`.
+2. Create a feature branch: `git checkout -b feature/name`.
+3. Update `readMe.md` with a ✅ next to your name.
+4. Create a pull request and assign it to me, *decentMorgan*.
+
+# Signatories
+
+- ▢ Jacob Tucker
+- ▢ Jonathan Sheely
+- ✅ Morgan Wilde
+- ▢ Nik Kalyani
